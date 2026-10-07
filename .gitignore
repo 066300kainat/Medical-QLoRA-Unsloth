@@ -1,0 +1,10 @@
+﻿*.safetensors
+*.bin
+*.gguf
+checkpoint-*/
+medical-llama-qlora/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+venv/
+.venv/
